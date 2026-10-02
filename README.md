@@ -1,6 +1,8 @@
 # EV Battery Health & Thermal Management System
 **Linux Kernel Character Device Driver & Userspace Monitoring Daemon**
 
+**Author:** Omm Prakash Sha  
+
 ---
 
 ## Overview

@@ -34,7 +34,7 @@
 #include "bms_driver.h"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("BMS Developer");
+MODULE_AUTHOR("Omm Prakash Sha");
 MODULE_DESCRIPTION("EV Battery Management System Kernel Driver");
 MODULE_VERSION("1.0");
 

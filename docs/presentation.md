@@ -6,7 +6,7 @@
 ### Slide 1: Title Slide
 - **Title**: EV Battery Health & Thermal Management System
 - **Subtitle**: Linux Kernel Character Driver, Coulomb Counting SoC, and Real-Time Thermal Runaway Early Detection Daemon
-- **Author**: Student Capstone Project
+- **Author**: Omm Prakash Sha
 - **Domain**: Automotive Embedded Systems & Linux Systems Programming
 - **Core Technologies**: Linux Kernel (Char Driver, IOCTL, Procfs, Spinlocks), C++17, POSIX IPC (Shared Memory with Seqlock, Message Queues)
 
